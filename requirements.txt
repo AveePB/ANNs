@@ -1,0 +1,6 @@
+pygame
+torch
+numpy
+jupyter
+pandas
+scikit-learn
