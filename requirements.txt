@@ -3,4 +3,5 @@ torch
 numpy
 jupyter
 pandas
+seaborn
 scikit-learn
