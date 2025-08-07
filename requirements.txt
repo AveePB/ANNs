@@ -9,3 +9,4 @@ scikit-learn
 torch==2.8.0+cu126
 torchvision==0.23.0+cu126
 torchaudio==2.8.0
+pynvml
